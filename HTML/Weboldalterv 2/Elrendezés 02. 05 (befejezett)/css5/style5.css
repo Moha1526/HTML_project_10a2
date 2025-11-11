@@ -1,0 +1,60 @@
+article, nav, aside, footer {
+    border: 2px dashed red;
+    text-align: center;
+    padding: 20px;
+    font-size: 2.0vw;
+    border-radius: 10px;
+}
+
+#article-left, #article-right {
+    width: 350px;
+    height: 150px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+article {
+    width: 500px;
+    height: 530px;
+    float: left;
+    margin-left: 20px;
+}
+
+aside {
+    width: 200px;
+    height: 530px;
+    float: left;
+    margin-left: 20px;
+}
+
+footer {
+    width: 100%;
+    height: 160px;
+    float: left;
+    margin-top: -180px;
+}
+
+#lent1 {
+    width: 211px;
+    height: 120px;
+}
+
+#lent2, #lent3 {
+    width: 211px;
+    height: 120px;
+}
+
+section {
+    width: 850px;
+    height: 600px;
+    float: left;
+}
+
+.container {
+    width: 860px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+

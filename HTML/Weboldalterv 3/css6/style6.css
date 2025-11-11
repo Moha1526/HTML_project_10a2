@@ -1,0 +1,111 @@
+article, aside, nav, section  {
+    border: 2px dashed red;
+    text-align: center;
+}
+
+header {
+    border-top: 2px dashed red;
+    border-bottom: 2px dashed red;
+    width: 100%;
+    height: auto;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#fa1, #fa2, #fa3 {
+    width: 247px;
+    height: 200px;
+    float: left;
+}
+
+#fa2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.f-arti {
+    width: 803px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav {
+    width: 788px;
+    height: 20px;
+    float: left;
+    margin-bottom: 20px;
+}
+
+.container {
+    height: auto;
+    width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#as1, #as2 {
+    width: 100px;
+    height: 740px;
+    float: left;
+}
+
+section {
+    width: 500px;
+    height: 700px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+#art1, #art2 {
+    width: 495px;
+    height: 335px;
+    float: left;
+}
+
+#art1 {
+    margin-bottom: 20px;
+}
+
+#footer1 {
+    width: 100%;
+    height: auto;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top: 2px dashed red;
+    border-bottom: 2px dashed red;
+}
+
+#la1, #la2, #la3, #la4 {
+    width: 179px;
+    height: 200px;
+    float: left;
+}
+
+#la2 {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+#la3 {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.l-arti {
+    width: 803px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer2 {
+    width: 788px;
+    height: 20px;
+    float: left;
+    border: 2px dashed red;
+    text-align: center;
+}
+

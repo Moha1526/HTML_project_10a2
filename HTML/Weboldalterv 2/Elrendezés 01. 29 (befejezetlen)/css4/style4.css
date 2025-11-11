@@ -1,0 +1,47 @@
+article, aside, footer {
+    border: 2px dashed red;
+    text-align: center;
+}
+
+article {
+    width: 450px;
+    height: 200px;
+    float: left;
+    
+}
+
+.art1 {
+    width: 700px;
+    height: 500px;
+    float: left;
+}
+
+aside {
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+
+footer {
+    width: 110%;
+    height: 170px;
+    float: left;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+
+.arts1, .arts2, .arts3 {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 300px;
+    height: 150px;
+    float: left;
+}
+
+section {
+    float: left;
+    width: 910px;
+    height: auto;
+    margin-right: auto;
+    margin-left: 100px;
+}
